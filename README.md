@@ -51,7 +51,7 @@ Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-gras
 - [CVPR2023] UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper](https://arxiv.org/abs/2303.00938)[[code](https://github.com/PKU-EPIC/UniDexGrasp)]
 
 - [CORL2023] Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation [[paper](https://arxiv.org/pdf/2309.00987)[[code](https://github.com/sequential-dexterity/SeqDex)]
-- 
+  
 - [NeurIPS2023] Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping [[paper](https://arxiv.org/abs/2309.06038)[[code](https://github.com/tianhaowuhz/human-assisting-dex-grasp)]
 
 - [RAL2023] Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes [[paper](https://ieeexplore.ieee.org/document/10168242)][[code](https://github.com/THU-VCLab/HGGD)]
