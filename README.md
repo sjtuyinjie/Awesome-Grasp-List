@@ -8,7 +8,9 @@
 
 **Gripper grasping** is essential for industrial automation and repetitive tasks, where efficiency, robustness, and reliability are prioritized. While simpler in design compared to dexterous hands, gripper systems must still contend with challenges like grasping irregular or deformable objects, achieving precision with limited degrees of freedom, and maintaining adaptability in cluttered or unstructured environments. The balance between simplicity and functionality remains a significant hurdle in advancing gripper grasping technology.
 
-Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-grasping-papers) and [awesome-grasping](https://github.com/Po-Jen/awesome-grasping), and this project aims to provide a comprehensive list of research efforts, datasets, and tools in the field of grasping, highlighting both classical approaches and the latest advancements. By making this list open-source, we encourage collaboration, community-driven improvements, and knowledge sharing to accelerate progress in this critical area of robotics. An open repository of resources ensures that cutting-edge innovations and best practices are accessible to researchers, engineers, and developers worldwide, fostering an ecosystem of transparency and continual advancement.
+Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-grasping-papers) and [awesome-grasping](https://github.com/Po-Jen/awesome-grasping), this project aims to provide a comprehensive list of research efforts, datasets, and tools in the field of grasping, highlighting both classical approaches and the latest advancements. By making this list open-source, we encourage collaboration, community-driven improvements, and knowledge sharing to accelerate progress in this critical area of robotics. An open repository of resources ensures that cutting-edge innovations and best practices are accessible to researchers, engineers, and developers worldwide, fostering an ecosystem of transparency and continual advancement.
+
+If you know more open-source grasp-related work, please propose an issue to remind me of updating, thanks!
 
 
 ## 🚩 Papers
