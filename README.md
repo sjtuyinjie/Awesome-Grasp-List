@@ -18,6 +18,9 @@ Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-gras
 
 - [AAAI2024] DexFuncGrasp: A Robotic Dexterous Functional Grasp Dataset Constructed from a Cost-Effective Real-Simulation Annotation System [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/28897/29706)[[code](https://github.com/hjlllll/DexFuncGrasp)]
 
+- [Arxiv2024] Realdex: Towards human-like grasping for robotic dexterous hand [[paper](https://arxiv.org/pdf/2402.13853)
+
+
 - [Arxiv2024] Grasping Diverse Objects with Simulated Humanoids [[paper](https://arxiv.org/pdf/2407.11385)[[code](https://www.zhengyiluo.com/Omnigrasp-Site/)]
   
 - [Arxiv2024] GraspXL: Generating Grasping Motions for Diverse Objects at Scale [[paper](https://arxiv.org/pdf/2403.19649)[[code](https://github.com/zdchan/GraspXL)]
@@ -47,6 +50,8 @@ Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-gras
 
 - [CVPR2023] UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper](https://arxiv.org/abs/2303.00938)[[code](https://github.com/PKU-EPIC/UniDexGrasp)]
 
+- [CORL2023] Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation [[paper](https://arxiv.org/pdf/2309.00987)[[code](https://github.com/sequential-dexterity/SeqDex)]
+- 
 - [NeurIPS2023] Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping [[paper](https://arxiv.org/abs/2309.06038)[[code](https://github.com/tianhaowuhz/human-assisting-dex-grasp)]
 
 - [RAL2023] Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes [[paper](https://ieeexplore.ieee.org/document/10168242)][[code](https://github.com/THU-VCLab/HGGD)]
@@ -89,6 +94,9 @@ Inspired by [Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-gras
 - [RA-L2022] End-to-End Learning to Grasp via Sampling From Object Point Clouds [[paper](https://arxiv.org/pdf/2203.05585.pdf)][[code](https://github.com/antoalli/L2G)]
 
 - [RA-L2022] EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands [[paper](https://arxiv.org/pdf/2206.15159.pdf)][[code](https://github.com/kelinos/efficient_grasp)]
+
+- [RA-L2022] From one hand to multiple hands: Imitation learning for dexterous manipulation from single-camera teleoperation [[paper](https://arxiv.org/pdf/2204.12490)][[code](https://github.com/yzqin/dex-hand-teleop)]
+
 
 - [ICRA2021] Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes [[paper](https://arxiv.org/pdf/2103.14127.pdf)][[code](https://github.com/NVlabs/contact_graspnet)]
 
