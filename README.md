@@ -120,6 +120,7 @@ If you know more open-source grasp-related work, please propose an issue to remi
   
 ## ⭐️ Related awesome lists
 
+- [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 - [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam)
 - [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim)
 - [awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
