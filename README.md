@@ -23,54 +23,54 @@ If you know more open-source grasp-related work, please propose an issue to remi
 - [Arxiv2024] Realdex: Towards human-like grasping for robotic dexterous hand [[paper](https://arxiv.org/pdf/2402.13853)
 
 
-- [Arxiv2024] Grasping Diverse Objects with Simulated Humanoids [[paper](https://arxiv.org/pdf/2407.11385)[[code](https://www.zhengyiluo.com/Omnigrasp-Site/)]
+- [Arxiv2024] Grasping Diverse Objects with Simulated Humanoids [[paper](https://arxiv.org/pdf/2407.11385)][[code](https://www.zhengyiluo.com/Omnigrasp-Site/)]
   
-- [Arxiv2024] GraspXL: Generating Grasping Motions for Diverse Objects at Scale [[paper](https://arxiv.org/pdf/2403.19649)[[code](https://github.com/zdchan/GraspXL)]
+- [Arxiv2024] GraspXL: Generating Grasping Motions for Diverse Objects at Scale [[paper](https://arxiv.org/pdf/2403.19649)][[code](https://github.com/zdchan/GraspXL)]
   
-- [ECCV2024] UGG: Unified Generative Grasping [[paper](https://arxiv.org/abs/2311.16917)[[code](https://github.com/Jiaxin-Lu/ugg)]
+- [ECCV2024] UGG: Unified Generative Grasping [[paper](https://arxiv.org/abs/2311.16917)][[code](https://github.com/Jiaxin-Lu/ugg)]
 
-- [ICRA2024] Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[paper](https://arxiv.org/pdf/2309.09818)[[code](https://github.com/andvg3/Grasp-Anything)]
+- [ICRA2024] Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[paper](https://arxiv.org/pdf/2309.09818)][[code](https://github.com/andvg3/Grasp-Anything)]
 
-- [ICRA2024] ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera [[paper](https://arxiv.org/pdf/2405.05648)[[code](https://github.com/jun7-shi/ASGrasp)]
+- [ICRA2024] ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera [[paper](https://arxiv.org/pdf/2405.05648)][[code](https://github.com/jun7-shi/ASGrasp)]
   
 - [RAL2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method [[paper](https://xplorestaging.ieee.org/document/10501952)][[code](https://github.com/ZikangYuan/sr_livo)]
 
-- [TRO2023] Deep Learning Approaches to Grasp Synthesis: A Review [[paper](https://arxiv.org/pdf/2207.02556)[[website](https://rhys-newbury.github.io/projects/6dof/)]
+- [TRO2023] Deep Learning Approaches to Grasp Synthesis: A Review [[paper](https://arxiv.org/pdf/2207.02556)][[website](https://rhys-newbury.github.io/projects/6dof/)]
 
 
-- [IROS2023] Continuous Grasping Function [[paper](https://arxiv.org/abs/2207.05053)[[code](https://github.com/jianglongye/cgf)]
+- [IROS2023] Continuous Grasping Function [[paper](https://arxiv.org/abs/2207.05053)][[code](https://github.com/jianglongye/cgf)]
 
-- [ICRA2023] exGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)[[code](https://github.com/PKU-EPIC/DexGraspNet)]
+- [ICRA2023] exGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)][[code](https://github.com/PKU-EPIC/DexGraspNet)]
 
-- [ICRA2023] GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF [[paper](https://arxiv.org/abs/2210.06575)[[code](https://github.com/PKU-EPIC/GraspNeRF)]
+- [ICRA2023] GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF [[paper](https://arxiv.org/abs/2210.06575)][[code](https://github.com/PKU-EPIC/GraspNeRF)]
 
-- [ICRA2023] Keypoint-GraspNet: Keypoint-based 6-DoF Grasp Generation from the Monocular RGB-D input [[paper](https://arxiv.org/abs/2209.08752)[[code](https://github.com/ivalab/KGN)]
+- [ICRA2023] Keypoint-GraspNet: Keypoint-based 6-DoF Grasp Generation from the Monocular RGB-D input [[paper](https://arxiv.org/abs/2209.08752)][[code](https://github.com/ivalab/KGN)]
 
-- [IROS2023]  KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input [[paper](https://arxiv.org/abs/2303.05617)[[code](https://github.com/ivalab/KGN)]
+- [IROS2023]  KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input [[paper](https://arxiv.org/abs/2303.05617)][[code](https://github.com/ivalab/KGN)]
   
-- [ICCV2023] UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning [[paper](https://arxiv.org/abs/2304.00464)[[code](https://github.com/PKU-EPIC/UniDexGrasp2)]
+- [ICCV2023] UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning [[paper](https://arxiv.org/abs/2304.00464)][[code](https://github.com/PKU-EPIC/UniDexGrasp2)]
 
-- [CVPR2023] UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper](https://arxiv.org/abs/2303.00938)[[code](https://github.com/PKU-EPIC/UniDexGrasp)]
+- [CVPR2023] UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper](https://arxiv.org/abs/2303.00938)][[code](https://github.com/PKU-EPIC/UniDexGrasp)]
 
-- [CORL2023] Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation [[paper](https://arxiv.org/pdf/2309.00987)[[code](https://github.com/sequential-dexterity/SeqDex)]
+- [CORL2023] Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation [[paper](https://arxiv.org/pdf/2309.00987)][[code](https://github.com/sequential-dexterity/SeqDex)]
   
-- [NeurIPS2023] Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping [[paper](https://arxiv.org/abs/2309.06038)[[code](https://github.com/tianhaowuhz/human-assisting-dex-grasp)]
+- [NeurIPS2023] Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping [[paper](https://arxiv.org/abs/2309.06038)][[code](https://github.com/tianhaowuhz/human-assisting-dex-grasp)]
 
 - [RAL2023] Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes [[paper](https://ieeexplore.ieee.org/document/10168242)][[code](https://github.com/THU-VCLab/HGGD)]
 
 - [CORL2023] Geometry Matching for Multi-Embodiment Grasping [[paper](https://proceedings.mlr.press/v229/attarian23a/attarian23a.pdf)][[code](https://github.com/google-deepmind/geomatch)]
 
-- [ECCV2022] Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Object [[paper](https://arxiv.org/abs/2208.03792)[[code](https://github.com/PKU-EPIC/DREDS)]
+- [ECCV2022] Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Object [[paper](https://arxiv.org/abs/2208.03792)][[code](https://github.com/PKU-EPIC/DREDS)]
 
-- [CORL2022] Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes [[paper](https://arxiv.org/pdf/2212.05275)[[code](https://github.com/mahaoxiang822/Scale-Balanced-Grasp)]
+- [CORL2022] Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes [[paper](https://arxiv.org/pdf/2212.05275)][[code](https://github.com/mahaoxiang822/Scale-Balanced-Grasp)]
 
-- [CORL2022] Volumetric-based Contact Point Detection for 7-DoF Grasping [[paper](https://openreview.net/pdf?id=SrSCqW4dq9)[[code](https://github.com/caijunhao/vcpd)]
+- [CORL2022] Volumetric-based Contact Point Detection for 7-DoF Grasping [[paper](https://openreview.net/pdf?id=SrSCqW4dq9)][[code](https://github.com/caijunhao/vcpd)]
 
-- [RAL2022] DA2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping [[paper](https://arxiv.org/pdf/2208.00408)[[code](https://github.com/ymxlzgy/DA2)]
+- [RAL2022] DA2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping [[paper](https://arxiv.org/pdf/2208.00408)][[code](https://github.com/ymxlzgy/DA2)]
   
-- [ECCV2022] Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Object [[paper](https://arxiv.org/abs/2208.03792)[[code](https://github.com/PKU-EPIC/DREDS)]
+- [ECCV2022] Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Object [[paper](https://arxiv.org/abs/2208.03792)][[code](https://github.com/PKU-EPIC/DREDS)]
 
-- [RAL2021] Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimation[[paper](https://arxiv.org/pdf/2104.09194)[[code](https://github.com/tengyu-liu/diverse-and-stable-grasp)]
+- [RAL2021] Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimation[[paper](https://arxiv.org/pdf/2104.09194)][[code](https://github.com/tengyu-liu/diverse-and-stable-grasp)]
 
 ### Gripper Grasping
 - [RAL2023] Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes [[paper](https://ieeexplore.ieee.org/document/10168242)][[code](https://github.com/THU-VCLab/HGGD)]
