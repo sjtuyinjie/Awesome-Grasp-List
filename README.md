@@ -2,6 +2,8 @@
 
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
 
+I'm an active open-source contributor interested on robotics and embodied AI, especially on reinforcement learning, dexterous manipulation, SLAM and arm plan and control. Welcome to follow me!
+
 ## 📝 Introduction
 
 **Dexterous grasping** is crucial for enabling robots to handle complex tasks that involve manipulating objects of varying shapes, sizes, and textures. The key challenge lies in achieving precise control over force and finger movements to adapt to dynamic environments, similar to how human hands work. This requires solving issues related to real-time adaptability, complex object interactions, and maintaining a stable grip without causing damage, making it one of the most technically challenging areas in robotics.
