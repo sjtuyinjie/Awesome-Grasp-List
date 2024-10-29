@@ -69,8 +69,7 @@ If you know more open-source grasp-related work, please propose an issue to remi
 - [CORL2022] Volumetric-based Contact Point Detection for 7-DoF Grasping [[paper](https://openreview.net/pdf?id=SrSCqW4dq9)][[code](https://github.com/caijunhao/vcpd)]
 
 - [RAL2022] DA2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping [[paper](https://arxiv.org/pdf/2208.00408)][[code](https://github.com/ymxlzgy/DA2)]
-  
-- [ECCV2022] Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Object [[paper](https://arxiv.org/abs/2208.03792)][[code](https://github.com/PKU-EPIC/DREDS)]
+
 
 - [RAL2021] Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimation[[paper](https://arxiv.org/pdf/2104.09194)][[code](https://github.com/tengyu-liu/diverse-and-stable-grasp)]
 
